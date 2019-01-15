@@ -65,6 +65,7 @@ body {
 }
 .navigacija li:hover {
 	background-color: #655560;
+	padding-left: 10px;
 }
 
 .navigacija li a {
