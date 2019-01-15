@@ -84,7 +84,7 @@ body {
 .navigacija .main-menu {
 	margin-bottom: 0;
 }
-@media screen and (max-width:800px) {
+@media screen and (max-width:400px) {
 	.navigacija .hamburger {
 		display: block;
 	}
